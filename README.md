@@ -89,8 +89,11 @@ To begin my professional career in the IT industry as an AI / Business Analyst, 
 📫 9. Contact Details
 
  Name: Vaibhavi Kamble
- Email: YOUR_EMAIL_ADDRESS
+ 
+ Email: vaibhavihansrajkamble9370@gmail.com
+ 
  LinkedIn: https://www.linkedin.com/in/vaibhavi-kamble-007518395
+ 
  GitHub: owner:vaibhavi-codes-ai 
 
 
